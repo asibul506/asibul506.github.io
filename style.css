@@ -1,3 +1,7 @@
+body{
+  background-color: #CDF0EA;
+}
+
 section{
   padding: 8% 5%;
 }
@@ -16,9 +20,6 @@ section{
   padding: 0px 10px;
 }
 
-.first{
-  background-color: #CDF0EA;
-}
 .center{
   width: 90%;
 }
