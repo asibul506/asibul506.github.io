@@ -1,0 +1,32 @@
+body{
+  color: #6E7582;
+  font-family: cursive;
+}
+.navbar{
+  padding: 0px 5px;
+}
+
+section{
+  padding: 10%;
+}
+
+.first{
+  background-color: #ECE2E1;
+}
+
+.second{
+  background-color: #D3E0DC;
+}
+
+.third{
+  background-color: #AEE1E1;
+  padding: 10% 5%;
+}
+
+img{
+  width: 80%;
+}
+
+.round{
+  border-radius: 30%;
+}

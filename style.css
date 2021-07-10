@@ -1,0 +1,71 @@
+section{
+  padding: 8% 5%;
+}
+
+/* first section */
+.hbd{
+  font-family: cursive;
+  font-size: 2.5rem;
+  font-weight: bolder;
+  color: #6E7582;
+  text-align: justify;
+  line-height: 4rem;
+
+}
+.navbar{
+  padding: 0px 10px;
+}
+
+.first{
+  background-color: #CDF0EA;
+}
+.center{
+  width: 90%;
+}
+.col-md-6{
+  padding: 5%;
+}
+
+/* happy birthday */
+.text{
+  border: none;
+}
+.letter{
+  color: #EFBBCF;
+  transition: all 0.2s ease-in-out;
+  font-size: 4rem;
+}
+.letter:hover{
+  color: yellow;
+  font-size: 5rem;
+}
+.fbtn{
+  background-color: none;
+  border: 1px solid;
+  width: 75%;
+  color: #6E7582;
+  padding: 5px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 5px;
+  border-color: #000;
+}
+.fbtn:hover{
+  background-color: #98DDCA;
+  color: #000;
+  border-color: #98DDCA;
+}
+
+
+
+#emu{
+  background-color: #CDF0EA;
+}
+#fahim{
+  background-color: #F9F9F9;
+}
+#musfiq{
+  background-color: #BEAEE2;
+}

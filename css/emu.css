@@ -1,0 +1,25 @@
+body{
+  background-color: #CDF0EA;
+  background-image: url(../images/back.jpeg);
+  background-size: cover;
+}
+.navbar{
+  padding: 0px 5px;
+}
+section{
+  padding: 10% 10%;
+}
+p{
+  text-align: justify;
+  font-size: 1.5rem;
+  font-family: 'Bree Serif', serif;;
+  line-height: 2.5rem;
+  color: blue;
+}
+
+video{
+  height: 70%;
+  width: 100%;
+  border: none;
+  border-radius: 5px;
+}
